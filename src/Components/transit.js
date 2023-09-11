@@ -1,7 +1,7 @@
 import React from 'react';
 import {tranportData} from "../utils/dummyData";
-import check from "../assests/accept.png";
-import clock from "../assests/clock.png"
+import check from "../Assests/accept.png";
+import clock from "../Assests/clock.png"
 
 export default function Transit(){
     return(
