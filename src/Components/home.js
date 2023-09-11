@@ -57,7 +57,6 @@ let service_data=[{
         <div className='logistics-title'>
             <h2>Logistics Partner</h2>
         </div>
-        <hr/>
         <div className="logistics-main">
         <div className='logistics-body'>
         <b>Plug into a worldwide logistics eco- system with a trusted partner</b>
@@ -70,7 +69,6 @@ let service_data=[{
         </div>
         <div className='services'>
             <h1>Our Services</h1>
-            <hr/>
             <div className='view-services'>
                 <a href='/services'><h5>View all</h5></a>
             </div>
