@@ -1,5 +1,5 @@
 import React from 'react';
-import ImexLogo from '../assests/ImexLogo.png'
+import ImexLogo from '../Assests/ImexLogo.png'
 import {CgProfile} from 'react-icons/cg'
 import { useNavigate } from 'react-router-dom';
 
