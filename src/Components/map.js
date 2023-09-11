@@ -1,6 +1,6 @@
 import React from 'react'
 import GoogleMapReact from 'google-map-react'
-import pin from "../assests/pin.gif"
+import pin from "../Assests/pin.gif"
 import { mapStyle } from '../utils/mapStyles'
 // import { Icon } from '@iconify/react'
 // import locationIcon from '@iconify/icons-mdi/map-marker'
