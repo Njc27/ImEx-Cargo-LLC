@@ -1068,7 +1068,7 @@ input, textarea{
 }
 
 .logistics-main{
-  background-image: url("./assests/logistics.jpg"); 
+  background-image: url("./Assests/logistics.jpg"); 
   height: 350px; 
   background-position: center;
   background-repeat: no-repeat; 
@@ -1165,7 +1165,7 @@ input, textarea{
 }
 
 .service-container{
-    background-image: url("./assests/services.jpg"); 
+    background-image: url("./Assests/services.jpg"); 
     height: 500px; 
     background-position: center;
     background-repeat: no-repeat; 
