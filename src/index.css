@@ -1028,6 +1028,7 @@ input, textarea{
 }
 .nav-container img{
   width: 30px;
+  margin-left: 12px;
 }
 .navbar-nav ul{
   padding: 0;
@@ -1058,6 +1059,27 @@ input, textarea{
 }
 .otherServices{
   grid-template-columns: 1fr;
+}
+
+.home-container{
+  height: 650px;
+}
+.h_card{
+  grid-template-columns: 1fr;
+  margin-left: 20%;
+}
+.logistics-body{
+  border-radius: 0 !important;
+  margin: 0px !important;
+  padding: 12px !important;
+  background: #000000e8 !important;
+}
+.s_card{
+  grid-template-columns: 1fr !important;
+  margin-left: 10% !important;
+}
+.service-container{
+  height: 100% !important;
 }
 
 }
