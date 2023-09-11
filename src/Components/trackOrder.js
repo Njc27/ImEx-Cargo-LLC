@@ -1,5 +1,5 @@
 import React, { useState,useEffect,useRef } from 'react';
-import truck from "../assests/truck.gif";
+import truck from "../Assests/truck.gif";
 import Map from './map';
 import Transit from './transit';
 
