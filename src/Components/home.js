@@ -67,7 +67,7 @@ let service_data=[{
         <div className='ratings'>
         <img src={Ratings} alt='ratings'></img>
         </div>
-        <div className='services'>
+        <div>
             <h1>Our Services</h1>
             <div className='view-services'>
                 <a href='/services'><h5>View all</h5></a>
