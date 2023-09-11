@@ -2,7 +2,7 @@ import React,{useState} from 'react';
 
 import Carousel from 'react-bootstrap/Carousel';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import circle from "../assests/circle.png";
+import circle from "../Assests/circle.png";
 
 
 export default function Services(){
