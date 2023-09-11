@@ -2,7 +2,7 @@ import React from 'react'
 import {BiMessageDetail} from 'react-icons/bi'
 import {useRef} from 'react'
 import emailjs from 'emailjs-com'
-import getInTouch from "../assests/inTouch.jpg"
+import getInTouch from "../Assests/inTouch.jpg"
 
 const Contact = () => {
   const form = useRef();
