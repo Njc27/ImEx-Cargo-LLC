@@ -561,6 +561,7 @@ video{
   /* margin: 100px;
   margin-top: 50px;
   margin-left: 300px; */
+  grid-template-columns:0.3fr 1fr;
 }
 .services-title{
   margin-bottom: 20px;
