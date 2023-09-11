@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './card.js'
-import Ratings from '../assests/ratings.png'
+import Ratings from '../Assests/ratings.png'
 import { useNavigate } from "react-router-dom";
 
 export default function Home(){
